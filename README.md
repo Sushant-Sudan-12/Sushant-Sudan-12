@@ -20,11 +20,7 @@ January 2017 - December 2021
 - **Programming Languages:** C#
 - **Game Development Tools:** Unity, Matlab
 - **Design Tools:** Krita, Canva, Blender
-- **Languages:** English, Hindi
 
-## 🏆 Achievements
-
-- **First Prize at Game Jam IIIT Delhi**
 
 ## 📚 Projects
 
